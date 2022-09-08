@@ -1,0 +1,73 @@
+
+/*Cross button outside layout*/
+.e1fb0mya1.css-fblp2m.ex0cdmw0{
+    display: none;
+}
+
+/*Cross button layout */
+.css-1rs6os{
+    display: none;
+}
+
+/* Email/Password/Search */
+
+.css-dfoau2 {
+    color : rgb(250,250,250);
+}
+
+/*Login button*/
+
+.css-norgad.edgvbvh5{
+    color : rgb(5,5,5);
+    background-color : rgb(246,179,67);
+    left: 90px;
+    position: relative;
+    padding-left: 35px;
+    padding-right: 35px;
+    font-weight: 600;
+}
+
+
+/*Fetch Data button*/
+.css-norgad.edgvbvh9{
+    color : rgb(5,5,5);
+    background-color : rgb(246,179,67);
+    left: 90px;
+    position: relative;
+    padding-left: 18px;
+    padding-right: 18px;
+    font-weight: 600;
+}
+
+/*LinkedIn Profile Data*/
+.css-10trblm{
+    bottom: 125px;
+    right: 60px;
+    font-size: 20px;
+}
+
+/*Hide Header*/
+.css-18ni7ap.e8zbici2{
+    display:none;
+}
+
+/*SideBar*/
+.css-voya1j{
+    top: 0px;
+}
+
+/*Hiding unnecessary streamlit widget icon*/
+.css-1nxclpf.e16nr0p31{
+    display: none;
+}
+
+/*Streamlit footer hide*/
+.css-1agp6hy.egzxvld0{
+     display: none;
+}
+
+.css-10trblm {
+    bottom: 130px;
+    right: 60px;
+    font-size: 20px;
+}
